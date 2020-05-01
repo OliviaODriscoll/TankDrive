@@ -1,0 +1,4 @@
+See file:///C:/Users/machine%20mavericks/FRCProjects/TankDrive/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramReleaseExecutableFrcUserProgramCpp.
+compiling Robot.cpp successful.
+
+Finished compileFrcUserProgramReleaseExecutableFrcUserProgramCpp, see full log file:///C:/Users/machine%20mavericks/FRCProjects/TankDrive/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt.
